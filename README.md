@@ -1,5 +1,9 @@
 📊 React Spreadsheet Component This is a dynamic spreadsheet built with React, featuring editable cells, formula support (e.g., =SUM(A1:B2)), keyboard navigation, formatting options (bold, background color), and the ability to save/load data via JSON.
 
+
+Live Demo Link - https://sprightly-starlight-a76406.netlify.app/
+
+
 🚀 Features
 
 ✅ 10x10 Editable Grid by default
